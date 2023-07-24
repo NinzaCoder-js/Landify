@@ -34,4 +34,43 @@ line-height: 45px;
 letter-spacing: -0.9px;
 }
 
+
+
+.bg-box {
+  width: 375px;
+  height: 1396px;
+  padding: 80px 20px 48px;
+}
+
+.get {
+  max-width: 335px;
+  max-height: 112px;
+}
+
+.get h2 {
+  font-size: 30px;
+  line-height: 40px;
+}
+
+.real-box {
+  max-width: 335px;
+  max-height: 368px;
+  margin-top: 32px;
+}
+
+.hub {
+  width: 335px;
+  height: 424px;
+  top: 612px;
+}
+
+.spot {
+  width: 335px;
+  height: 284px;
+  top: 1020px;
+  left: 20px;
+}
+
+
+
 }

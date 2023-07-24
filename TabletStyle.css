@@ -41,4 +41,83 @@
 
 
 
+
+
+
+  .bg-box {
+    width: 768px;
+    height: 1165px;
+    padding: 120px 40px 40px 80px;
+
+  }
+
+  .real-box {
+    max-width: 688px;
+    max-height: 284px;
+    margin-top: 0px;
+  }
+
+  .real-stories {
+    flex-wrap: wrap;
+  }
+
+  .absolyute {
+    top: 64px;
+    left: -104px;
+  }
+
+  .hub-spot {
+   flex-wrap: wrap;
+    margin-left: 0px;
+  }
+
+
+  .hub {
+    width: 648px;
+    height: 305px;
+    top: 542px;
+
+  }
+
+  .spot {
+
+    width: 648px;
+    height: 228px;
+    background-color: #ffffff;
+    top: 840px;
+    left:80px;
+  }
+
+
+  .real-name {
+    padding-top: 0px;
+    margin-left: 0px;
+  }
+
+  .absolyute {
+    top: -58px;
+    left: -25px;
+  }
+
+  .get {
+    width: 688px;
+    height: 81px;
+  }
+
+  .get h2 {
+    font-size: 36px;
+    line-height: 45px;
+    letter-spacing: -0.9px;
+  }
+
+
+
+
+
+
+
+
+
+
+
 }

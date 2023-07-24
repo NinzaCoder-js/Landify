@@ -1,9 +1,9 @@
 /* Style for Mobile */
 
-@media (max-width:375px){
+@media (max-width:390px){
 
   .container {
-    max-width: 375px;
+    max-width: 390px;
   }
 
  .head-text h1 {

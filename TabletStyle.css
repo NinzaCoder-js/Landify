@@ -1,0 +1,44 @@
+/* Style for Tablet */
+
+@media (max-width: 768px) {
+
+
+  .container {
+    max-width: 768px;
+  }
+
+  .nav-item1 {
+    margin-left: 0px;
+  }
+  .head-text {
+    flex-wrap: wrap;
+  }
+
+  .head-text h1 {
+    font-size: 48px;
+    letter-spacing: -1.2px;
+    line-height: 60px;
+  }
+
+  .text-box {
+    margin-right: 0px;
+    margin-left: 40px;
+  }
+
+  .logotips {
+    flex-wrap: wrap;
+    padding: 24px 0px;
+  }
+
+  .lines-logos {
+    margin-left: 0px;
+    height: 168px;
+  }
+
+  #features {
+    padding: 80px 40px;
+  }
+
+
+
+}

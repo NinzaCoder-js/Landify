@@ -1,0 +1,137 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: Inter;
+}
+
+.container {
+  max-width: 1440px;
+  margin: 0 auto;
+}
+
+.bg-img {
+  background-image: url("./images/back.png");
+}
+
+.nav-item1 {
+  margin-left: 492px;
+}
+
+.head-text {
+  display: flex;
+  gap: 164px;
+  margin-top: 72px;
+  justify-content: center;
+}
+
+.text-box {
+  max-width: 696px;
+  margin-top: 96px;
+  margin-right: 48px;
+  display: flex;
+  flex-direction: column;
+}
+
+.head-text h1 {
+  color: var(--neutral-900, #111827);
+  font-size: 60px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 72px;
+  letter-spacing: -1.5px;
+}
+
+.text-box p {
+  padding-top: 16px;
+  margin-bottom: 32px;
+  color: var(--neutral-700, #374151);
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 28px;
+}
+
+.btns {
+  display: flex;
+  gap: 16px;
+}
+
+.vid {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+}
+
+.btn a {
+  text-decoration: none;
+  padding: 16px 24px;
+  color: white;
+  background-color: #7C3AED;
+  border-radius: 8px;
+}
+
+.vid a {
+  text-decoration: none;
+  color: #7C3AED;
+  padding-left: 0;
+}
+
+.lines-logos {
+  margin-top: 50px;
+  margin-left: 112px;
+  max-width: 1219px;
+  height: 110px;
+  border-top: 1px solid #E5E7EB;
+  border-bottom: 1px solid #E5E7EB;
+}
+
+.logotips {
+  display: flex;
+  justify-content: center;
+  gap: 64px;
+  padding: 42px;
+}
+
+#features {
+  padding: 96px 112px;
+}
+
+.tailor-txt {
+  text-align: center;
+}
+
+.tailor-txt h2 {
+  font-size: 48px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 60px; /* 125% */
+  letter-spacing: -1.2px;
+}
+
+.tailor-txt p {
+  color: var(--neutral-900, #111827);
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 28px;
+}
+
+.justy {
+  display: flex;
+  text-align: center;
+  gap: 30px;
+}
+
+.headline {
+  margin-top: 64px;
+  display: flex;
+  flex-direction: column;
+  gap: 64px;
+}
+
+@media (max-width: 1083px) {
+  .nav-item1 {
+    margin-left: 0px;
+  }
+}/*# sourceMappingURL=style.css.map */

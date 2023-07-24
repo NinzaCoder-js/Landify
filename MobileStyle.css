@@ -1,0 +1,37 @@
+/* Style for Mobile */
+
+@media (max-width:375px){
+
+  .container {
+    max-width: 375px;
+  }
+
+ .head-text h1 {
+  letter-spacing: -0.9px;
+  font-size: 36px;
+  line-height: 45px;
+ }
+
+ .text-box {
+  margin-left: 20px;
+}
+
+.lines-logos {
+  height: 250px;
+}
+
+#features {
+  padding: 48px 20px;
+}
+
+.justy {
+  flex-wrap: wrap;
+}
+
+.tailor-txt {
+  font-size: 36px;
+line-height: 45px;
+letter-spacing: -0.9px;
+}
+
+}

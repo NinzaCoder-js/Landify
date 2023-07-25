@@ -151,18 +151,17 @@
   height: 164px;
   border-bottom-left-radius: 164px;
   border-bottom-right-radius: 164px;
-  gap: 39px;
-  padding-top: 24px;
+  gap: 20px;
+  padding-top: 16px;
 }
 
 .icons img {
-  width: 45px;
-  height: 45px;
+  width: 60px;
+  height: 60px;
 }
 
 .line2 {
-  display: flex;
-margin-left: 80px;
+margin-left: 48px;
 gap: 20px;
 }
 

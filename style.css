@@ -251,4 +251,53 @@
   border-radius: 8px;
   padding: 32px;
   left: 736px;
+}
+
+.price {
+  padding: 80px 112px;
+  display: flex;
+  gap: 32px;
+  align-items: center;
+}
+
+.age {
+  width: 592px;
+  height: 156px;
+}
+
+.age h3 {
+  color: var(--neutral-900, #111827);
+  font-size: 48px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 60px; /* 125% */
+  letter-spacing: -1.2px;
+}
+
+.users {
+  width: 328px;
+  height: 64px auto;
+  display: flex;
+  gap: 16px;
+  align-items: center;
+}
+
+.users h4 {
+  color: var(--neutral-900, #111827);
+  font-size: 36px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 45px; /* 125% */
+  letter-spacing: -0.9px;
+}
+
+.user-day {
+  display: flex;
+  gap: 32px;
+}
+
+.real-price {
+  display: flex;
+  flex-direction: column;
+  gap: 40px;
 }/*# sourceMappingURL=style.css.map */

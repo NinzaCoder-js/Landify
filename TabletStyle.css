@@ -110,8 +110,17 @@
     letter-spacing: -0.9px;
   }
 
+/* price section started */
 
+.price {
+  padding: 80px 40px;
+  flex-wrap: wrap;
+}
 
+.age {
+  width: 688px;
+  height: 81px;
+}
 
 
 

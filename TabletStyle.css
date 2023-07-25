@@ -122,6 +122,50 @@
   height: 81px;
 }
 
+/* easy section started */
+
+.tool-box {
+  padding: 80px 40px;
+  gap: 32px;
+}
+
+.tool-text {
+  width: 328px;
+  height: 222px;
+}
+
+.tool-text h2 {
+  font-size: 36px;
+  line-height: 45px; /* 125% */
+  letter-spacing: -0.9px;
+}
+
+.tool-text p {
+  font-size: 18px;
+  line-height: 28px; /* 155.556% */
+}
+
+
+.icons {
+  width: 328px;
+  height: 164px;
+  border-bottom-left-radius: 164px;
+  border-bottom-right-radius: 164px;
+  gap: 39px;
+  padding-top: 24px;
+}
+
+.icons img {
+  width: 45px;
+  height: 45px;
+}
+
+.line2 {
+  display: flex;
+margin-left: 80px;
+gap: 20px;
+}
+
 
 
 

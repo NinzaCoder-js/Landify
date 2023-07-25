@@ -324,3 +324,59 @@ letter-spacing: -0.9px;
   flex-direction: column;
   gap: 40px;
 }
+
+//easy section started
+
+.tool-box {
+  padding: 80px 112px;
+  display: flex;
+  gap: 110px;
+  align-items: center;
+
+}
+
+.tool-text {
+  width: 488px;
+  height: 264px;
+}
+
+.tool-text h2 {
+  color: var(--neutral-900, #111827);
+font-size: 48px;
+font-style: normal;
+font-weight: 700;
+line-height: 60px; /* 125% */
+letter-spacing: -1.2px;
+margin-bottom: 8px;
+}
+
+.tool-text p {
+  color: var(--neutral-900, #111827);
+font-size: 18px;
+font-style: normal;
+font-weight: 400;
+line-height: 28px; /* 155.556% */
+}
+
+.icons {
+  width: 540px;
+  height: 270px;
+  border-bottom-left-radius: 270px;
+  border-bottom-right-radius: 270px;
+  background-color: #EDE9FE;
+  display: flex;
+  flex-direction: column;
+  gap: 44px;
+  padding-top: 20px;
+}
+
+.line {
+  display: flex;
+  justify-content: space-around;
+}
+
+.line2 {
+  display: flex;
+margin-left: 120px;
+gap: 20px;
+}

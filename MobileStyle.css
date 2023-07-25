@@ -93,4 +93,11 @@ letter-spacing: -0.9px;
   letter-spacing: -0.9px;
 }
 
+/* easy section started */
+
+.tool-box {
+  padding: 40px 20px;
+  flex-wrap: wrap;
+}
+
 }

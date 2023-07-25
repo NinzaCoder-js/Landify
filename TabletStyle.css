@@ -10,6 +10,7 @@
   .nav-item1 {
     margin-left: 0px;
   }
+
   .head-text {
     flex-wrap: wrap;
   }
@@ -40,10 +41,6 @@
   }
 
 
-
-
-
-
   .bg-box {
     width: 768px;
     height: 1165px;
@@ -67,7 +64,7 @@
   }
 
   .hub-spot {
-   flex-wrap: wrap;
+    flex-wrap: wrap;
     margin-left: 0px;
   }
 
@@ -85,7 +82,7 @@
     height: 228px;
     background-color: #ffffff;
     top: 840px;
-    left:80px;
+    left: 80px;
   }
 
 
@@ -110,66 +107,62 @@
     letter-spacing: -0.9px;
   }
 
-/* price section started */
+  /* price section started */
 
-.price {
-  padding: 80px 40px;
-  flex-wrap: wrap;
-}
+  .price {
+    padding: 80px 40px;
+    flex-wrap: wrap;
+  }
 
-.age {
-  width: 688px;
-  height: 81px;
-}
+  .age {
+    width: 688px;
+    height: 81px;
+  }
 
-/* easy section started */
+  /* easy section started */
 
-.tool-box {
-  padding: 80px 40px;
-  gap: 32px;
-}
+  .tool-box {
+    padding: 80px 40px;
+    gap: 32px;
+  }
 
-.tool-text {
-  width: 328px;
-  height: 222px;
-}
+  .tool-text {
+    width: 328px;
+    height: 222px;
+  }
 
-.tool-text h2 {
-  font-size: 36px;
-  line-height: 45px; /* 125% */
-  letter-spacing: -0.9px;
-}
+  .tool-text h2 {
+    font-size: 36px;
+    line-height: 45px;
+    /* 125% */
+    letter-spacing: -0.9px;
+  }
 
-.tool-text p {
-  font-size: 18px;
-  line-height: 28px; /* 155.556% */
-}
-
-
-.icons {
-  width: 328px;
-  height: 164px;
-  border-bottom-left-radius: 164px;
-  border-bottom-right-radius: 164px;
-  gap: 20px;
-  padding-top: 16px;
-}
-
-.icons img {
-  width: 60px;
-  height: 60px;
-}
-
-.line2 {
-margin-left: 48px;
-gap: 20px;
-}
+  .tool-text p {
+    font-size: 18px;
+    line-height: 28px;
+    /* 155.556% */
+  }
 
 
+  .icons {
+    width: 328px;
+    height: 164px;
+    border-bottom-left-radius: 164px;
+    border-bottom-right-radius: 164px;
+    gap: 20px;
+    padding-top: 16px;
+  }
 
+  .icons img {
+    width: 60px;
+    height: 60px;
+  }
 
-
-
+  .line2 {
+    margin-left: 48px;
+    gap: 20px;
+  }
 
 
 }
